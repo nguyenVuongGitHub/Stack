@@ -5,7 +5,7 @@
 */
 #include <iostream>
 using namespace std;
-int sizeList = 0;
+
 // khai báo cấu trúc của stack 
 struct node{
     int data;
